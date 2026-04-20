@@ -13,7 +13,7 @@ A simple weather application that shows real-time weather data using WeatherAPI.
 - WeatherAPI
 
 ## 🔗 Live Demo
-https://global453.github.io/Weather-App/
+https://global453.github.io/WeatherApp/
 
 ## 📸 Screenshot
 
